@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning c & c++ together 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,
-- G-mail: shiv.chaudhary0201@gmail.com
+- G-mail: enticer2024@gmail.com
 - Instagram: @maroonbaretmen
-  
+  X: BSC_IT_ENTICER
 - ⚡ Fun fact: I am Always Ready To do The Things That I Love 
 
 <!---
